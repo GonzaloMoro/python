@@ -14,5 +14,3 @@ def puntoYcoma ():
             acumc = acumc +1
          
     print('su texto tiene ',acump,' puntos y ',acumc,' comas')  #imprimimos por pantalla la cantidad de puntos y comas
-
-puntoYcoma()
